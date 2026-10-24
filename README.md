@@ -60,13 +60,15 @@ Audit trail: Record key actions.
 
 ### Tech Stack
 
-| Layer         | Technology                   |
-| ------------- | ---------------------------- |
-| Frontend      | e.g. HTML, React             |
-| Backend       | e.g. Python, Flask / FastAPI |
-| Database      | e.g. PostgreSQL, SQLite      |
-| AI / Compute  | RunPod (GPU)                 |
-| Hosting / Dev | Replit                       |
+Fill in the table like this:
+
+| Layer | Technology |
+|---|---|
+| Frontend | React, TypeScript, Vite |
+| Backend | Node.js, Express |
+| Database | PostgreSQL, Drizzle ORM |
+| AI / Compute | OpenAI `gpt-5.4-mini` via Replit AI Integrations; SerpApi for supplier search |
+| Hosting / Dev | Replit |
 
 ---
 
