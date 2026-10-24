@@ -26,6 +26,7 @@
 | RunPod Endpoint   | -                                              |
 | Slide Deck        | https://docs.google.com/presentation/d/1JQ5IfLaisiVLiId1FQzE9Po7hvrPBYoJ/edit?usp=sharing&ouid=112411798393941255457&rtpof=true&sd=true                     |
 | Demo Video        | https://youtu.be/jr1RM37vFrg                 |
+| Pitch Video |      https://youtu.be/ASf6w6EKvx0                                           |
 
 ---
 
