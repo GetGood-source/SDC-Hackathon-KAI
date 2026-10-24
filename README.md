@@ -34,17 +34,22 @@
 
 ### Problem
 
-Describe the real-world problem you are solving in 2–4 sentences. Who is affected, and why does it matter?
+Many SMEs have limited time, staff, and storage for managing purchasing. When they need less common or urgent items that are not in stock or in their usual supplier catalogs, employees may spend hours searching for suppliers, comparing prices, and tracking orders manually. This can delay operations, increase costs, and lead to purchasing decisions based on incomplete information.
 
 ### Solution
 
-Explain how your project uses AI to solve the problem and what makes it valuable.
+One Stop Smart Procurement uses AI to explain supplier quote comparisons and help staff understand which option best meets their needs. The system also checks inventory and supplier records, applies clear rules to compare price, ratings, and delivery time, and can find potential suppliers online when no suitable option is listed. This helps SMEs spend less time sourcing and comparing items, while improving the information available for decisions. Staff still verify supplier details, and a manager must approve purchases.
 
 ### Key Features
 
-- **Feature 1** — Short description.
-- **Feature 2** — Short description.
-- **Feature 3** — Short description.
+Spare-part requests: Submit part details and deadline.
+Inventory check: Check stock and supplier catalogs.
+Supplier search: Find potential suppliers online.
+Quote comparison: Compare price, availability, and delivery.
+Recommendations: Rank quotes and explain the choice.
+Manager approval: Approve or reject purchases.
+Order tracking: Follow each request’s status.
+Audit trail: Record key actions.
 
 ### Tech Stack
 
