@@ -60,8 +60,6 @@ Audit trail: Record key actions.
 
 ### Tech Stack
 
-Fill in the table like this:
-
 | Layer | Technology |
 |---|---|
 | Frontend | React, TypeScript, Vite |
