@@ -13,17 +13,17 @@
 | **Team Name**          | KAI                                         |
 | **Team Domain**        | Domain 2                                    |
 | **SDG Track (1–17)**   | SDG 9 Industry, Innovation and Infrastructure
-| **Team Leader**        | Leader Name                                 |
-| **University**         | University Name(s)                          |
-| **Number of Members**  | e.g. 4                                      |
+| **Team Leader**        | Woon Kai Xiang                              |
+| **University**         | Sunway University                           |
+| **Number of Members**  | 1                                           |
 
 ## Links
 
 | Resource          | Link                                           |
 | ----------------- | ---------------------------------------------- |
-| GitHub Repository | https://github.com/your-username/your-project  |
-| Live Demo         | https://your-project.replit.app                |
-| RunPod Endpoint   | https://api.runpod.ai/v2/your-endpoint-id      |
+| GitHub Repository | GetGood-source/SDC-Hackathon-KAI               |
+| Live Demo         | One Stop Smart Procurement                     |
+| RunPod Endpoint   | -                                              |
 | Slide Deck        | https://example.com/slides                     |
 | Demo Video        | https://example.com/demo-video                 |
 
