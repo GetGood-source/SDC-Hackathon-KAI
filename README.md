@@ -25,7 +25,7 @@
 | Live Demo         | https://one-stop-smart-procurement-system.replit.app                     |
 | RunPod Endpoint   | -                                              |
 | Slide Deck        | https://docs.google.com/presentation/d/1JQ5IfLaisiVLiId1FQzE9Po7hvrPBYoJ/edit?usp=sharing&ouid=112411798393941255457&rtpof=true&sd=true                     |
-| Demo Video        | https://example.com/demo-video                 |
+| Demo Video        | https://youtu.be/jr1RM37vFrg                 |
 
 ---
 
