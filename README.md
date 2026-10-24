@@ -72,10 +72,12 @@ Audit trail: Record key actions.
 
 ## Project Structure
 
+```
+
 ├── submission/              # Required submission documents
 │   ├── SDC2026_KAI_Replit_POU.pdf       # Replit proof of use
 │   ├── SDC2026_KAI_SlideDecks.pdf       # Slides
-│    ├── SDC2026_KAI_TechDeclaration.pdf  # Technology declaration
+│   ├── SDC2026_KAI_TechDeclaration.pdf  # Technology declaration
 │   ├── SDC2026_KAI_Preliminary.pdf      # Preliminary submission
 ├── src/
 │   ├── main.py              # Application entry point
