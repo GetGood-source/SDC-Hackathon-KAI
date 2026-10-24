@@ -72,19 +72,14 @@ Audit trail: Record key actions.
 
 ## Project Structure
 
-```
-.
-├── docs/                    # Screenshots, diagrams
-├── runpod/
-│   └── handler.py           # RunPod serverless handler (GPU workload)
+├── submission/              # Required submission documents
+│   ├── SDC2026_KAI_Replit_POU.pdf       # Replit proof of use
+│   ├── SDC2026_KAI_SlideDecks.pdf       # Slides
+│    ├── SDC2026_KAI_TechDeclaration.pdf  # Technology declaration
+│   ├── SDC2026_KAI_Preliminary.pdf      # Preliminary submission
 ├── src/
 │   ├── main.py              # Application entry point
 │   └── utils.py             # Helper functions
-├── submission/              # Required submission documents
-│   ├── SDC2026_TeamName_Preliminary.pdf      # Preliminary submission
-│   ├── SDC2026_TeamName_TechDeclaration.pdf  # Technology declaration
-│   ├── SDC2026_TeamName_Replit_POU.pdf       # Replit proof of use
-│   └── SDC2026_TeamName_Runpod_POU.pdf       # RunPod proof of use
 ├── tests/
 │   └── test_utils.py        # Unit tests
 ├── .env.example             # Example environment variables
