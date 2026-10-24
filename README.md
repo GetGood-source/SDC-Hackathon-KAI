@@ -21,8 +21,8 @@
 
 | Resource          | Link                                           |
 | ----------------- | ---------------------------------------------- |
-| GitHub Repository | GetGood-source/SDC-Hackathon-KAI               |
-| Live Demo         | One Stop Smart Procurement                     |
+| GitHub Repository | https://github.com/GetGood-source/SDC-Hackathon-KAI  |
+| Live Demo         | https://one-stop-smart-procurement-system.replit.app                     |
 | RunPod Endpoint   | -                                              |
 | Slide Deck        | https://example.com/slides                     |
 | Demo Video        | https://example.com/demo-video                 |
