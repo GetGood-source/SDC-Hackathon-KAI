@@ -43,12 +43,19 @@ One Stop Smart Procurement uses AI to explain supplier quote comparisons and hel
 ### Key Features
 
 Spare-part requests: Submit part details and deadline.
+
 Inventory check: Check stock and supplier catalogs.
+
 Supplier search: Find potential suppliers online.
+
 Quote comparison: Compare price, availability, and delivery.
+
 Recommendations: Rank quotes and explain the choice.
+
 Manager approval: Approve or reject purchases.
+
 Order tracking: Follow each request’s status.
+
 Audit trail: Record key actions.
 
 ### Tech Stack
